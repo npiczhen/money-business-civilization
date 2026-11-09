@@ -1,0 +1,690 @@
+{
+  "课程名称": "金钱与商业文明：每天一个财务小故事",
+  "成功交付的课次": 56,
+  "最近交付日期": "2026-11-09",
+  "当前所属主题": "理解今天的财富世界——风险、制度与个人财务",
+  "课程": [
+    {
+      "期数": 1,
+      "日期": "2026-11-07",
+      "标题": "一块泥板上的谷物：钱出现之前，人们怎样记住交易？",
+      "核心故事": "两河流域约公元前3100—2900年的谷物行政泥板",
+      "核心财务原理": "计量、记录与未来义务让资源分配可核对",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/327384?searchField=All",
+        "https://www.britishmuseum.org/sites/default/files/2021-05/Money_Gallery_LPG_2020_Room_68.pdf",
+        "https://www.cambridge.org/core/books/abs/origins-of-money-in-the-iron-age-mediterranean-world/rethinking-the-origins-of-money/F3AC46AEAD5A4E327F203F12DD464F62",
+        "https://www.cambridge.org/core/elements/shell-money/59F5D361C6CA7C596A8C168C84A960D0"
+      ],
+      "编号": "1-1"
+    },
+    {
+      "期数": 2,
+      "日期": "2026-11-08",
+      "标题": "九十份谷物买一块田：价格为什么需要共同尺度？",
+      "核心故事": "约公元前2400—2200年两河流域图普西卡的土地购买石板",
+      "核心财务原理": "共同计价单位使不同物品可比较；价格、支付与记录要区分",
+      "主要参考来源": [
+        "https://www.britishmuseum.org/sites/default/files/2021-05/Money_Gallery_LPG_2020_Room_68.pdf",
+        "https://www.metmuseum.org/art/collection/search/327384?searchField=All",
+        "https://www.metmuseum.org/art/collection/search/329079"
+      ],
+      "编号": "1-2"
+    },
+    {
+      "期数": 3,
+      "日期": "2026-11-09",
+      "标题": "贝壳为什么能被人收下：一段西周铭文里的价值约定",
+      "核心故事": "西周裘卫青铜器铭文中的贝币计价",
+      "核心财务原理": "交换媒介的可接受性依赖辨认、供应与共同信任",
+      "主要参考来源": [
+        "https://www.cambridge.org/core/elements/shell-money/59F5D361C6CA7C596A8C168C84A960D0",
+        "https://www.britishmuseum.org/sites/default/files/2021-05/Money_Gallery_LPG_2020_Room_68.pdf"
+      ],
+      "编号": "1-3"
+    },
+    {
+      "期数": 4,
+      "编号": "1-4",
+      "交付日期": "2026-11-09",
+      "标题": "印记压在金属上：一枚硬币怎样减少检验成本",
+      "核心故事": "约公元前7世纪，安纳托利亚的吕底亚出现带印记的金银合金钱币；中国此前已有模仿贝壳、刀和铲的金属货币，两地属于不同的货币传统。",
+      "核心财务原理": "铸造者的印记使重量和成色获得更容易识别的公共信息，但伪造、磨损与发行者失信仍会破坏这种便利。",
+      "主要参考来源": [
+        "https://www.bankofengland.co.uk/explainers/how-has-money-changed-over-time",
+        "https://www.britishmuseum.org/sites/default/files/2021-05/Money_Gallery_LPG_2020_Room_68.pdf"
+      ]
+    },
+    {
+      "期数": 5,
+      "编号": "1-5",
+      "交付日期": "2026-11-09",
+      "标题": "四川的重铁钱与轻纸张：交子为什么受到欢迎",
+      "核心故事": "北宋四川以沉重铁钱为主。研究指出，10世纪90年代私人商人发行交子，后来因发行者偿付困难，国家于1024年接管发行。",
+      "核心财务原理": "纸张节省运输成本，却把风险从搬运转为信用；私人发行、政府接管和现代法币是不同阶段。",
+      "主要参考来源": [
+        "https://www.cambridge.org/core/books/abs/rise-and-demise-of-paper-money-in-imperial-china/northern-song-monetary-policy-and-the-invention-of-paper-currency-in-sichuan/8D4E47993802972BFFEE47EC0DF7CD22",
+        "https://www.bankofengland.co.uk/explainers/how-has-money-changed-over-time"
+      ]
+    },
+    {
+      "期数": 6,
+      "编号": "1-6",
+      "交付日期": "2026-11-09",
+      "标题": "1697年的一张收据：纸为什么可以替金币旅行",
+      "核心故事": "英格兰银行博物馆保存一张1697年6月18日的早期票据，面额22英镑，后来分两次取出5英镑和17英镑。",
+      "核心财务原理": "票据是对发行机构的请求权；它易转让的前提是别人相信发行者及其兑付安排。",
+      "主要参考来源": [
+        "https://www.bankofengland.co.uk/museum/online-collections/blog/our-earliest-bank-of-england-note",
+        "https://www.bankofengland.co.uk/explainers/what-is-money"
+      ]
+    },
+    {
+      "期数": 7,
+      "编号": "1-7",
+      "交付日期": "2026-11-09",
+      "标题": "从泥板、谷物、贝壳到纸票：第一周的知识地图",
+      "核心故事": "本主题前六期故事的知识串联",
+      "核心财务原理": "在货币史里，物品的材质只是故事的一部分。计价、交付、记录和信任有时合在一种物品上，有时分散在不同机构中。任何“第一种钱”的说法，都应先问清地区、用途和证据范围。",
+      "主要参考来源": [
+        "https://www.britishmuseum.org/sites/default/files/2021-05/Money_Gallery_LPG_2020_Room_68.pdf",
+        "https://www.bankofengland.co.uk/explainers/what-is-money"
+      ]
+    },
+    {
+      "期数": 8,
+      "编号": "2-1",
+      "交付日期": "2026-11-09",
+      "标题": "一支走六周的商队：商人怎样算出真正的成本",
+      "核心故事": "约公元前20—19世纪，亚述商人从阿舒尔以驴队前往卡内什，贩卖锡和纺织品；大都会艺术博物馆的商队账板记录货物投资、向导工资、驴具和饲料。",
+      "核心财务原理": "利润取决于收入减去全部相关成本；路程越长，资金占用与损失风险越大。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325851",
+        "https://www.metmuseum.org/art/collection/search/325842"
+      ]
+    },
+    {
+      "期数": 9,
+      "编号": "2-2",
+      "交付日期": "2026-11-09",
+      "标题": "写给兄弟的商业信：远方经营为什么离不开信息",
+      "核心故事": "大都会艺术博物馆收藏普祖尔-阿舒尔写给兄弟的泥板信，涉及家族商号的争议，也担忧同行者未抵达卡内什。",
+      "核心财务原理": "贸易需要可信的信息流；迟到或错误的信息，会使库存、信用和安排同时失真。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325842",
+        "https://www.metmuseum.org/art/collection/search/325851"
+      ]
+    },
+    {
+      "期数": 10,
+      "编号": "2-3",
+      "交付日期": "2026-11-09",
+      "标题": "一块算错了的商队账板：为什么账要能复核",
+      "核心故事": "大都会艺术博物馆指出，一块卡内什商队账板写出的最终银余额为1米那50舍客勒，按所列数字重算却为1米那48又六分之五舍客勒。",
+      "核心财务原理": "账目需要凭证、分类、复核；精确记录并不保证从不出错，反而让错误有机会被发现。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325851",
+        "https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/"
+      ]
+    },
+    {
+      "期数": 11,
+      "编号": "2-4",
+      "交付日期": "2026-11-09",
+      "标题": "债还清之后的泥板：交易为什么要有“结束证明”",
+      "核心故事": "卡内什一块银借款清偿泥板记载：欠阿舒尔-塔克拉库的银款已经付清，进一步索偿无效；文书列出证人并有封印。",
+      "核心财务原理": "清偿记录把原来的债务状态改为已结清；证人和封印降低争议成本。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325857",
+        "https://www.metmuseum.org/art/collection/search/325858"
+      ]
+    },
+    {
+      "期数": 12,
+      "编号": "2-5",
+      "交付日期": "2026-11-09",
+      "标题": "泥板上的纺织品去向：库存为何必须知道在哪里",
+      "核心故事": "卡内什商人伊拉布拉特-巴尼在私人信中向运输者阿穆尔-伊利报告已送往另一贸易站的纺织品，并请求衣物和旅行建议。",
+      "核心财务原理": "库存管理要记录数量、地点、状态与责任人；在途货物不能当成立即能交付的现货。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325849?searchField=All",
+        "https://www.metmuseum.org/art/collection/search/325851"
+      ]
+    },
+    {
+      "期数": 13,
+      "编号": "2-6",
+      "交付日期": "2026-11-09",
+      "标题": "从一趟商队到远洋合伙：为什么企业需要更多资本",
+      "核心故事": "1602年，荷兰东印度公司向公众发行可交易股份，为远洋贸易融资。一次航行耗资大、风险多、回款慢，单个商人难独自承担。",
+      "核心财务原理": "募集股本让多人共同提供资金并承担经营结果；转让股份给出退出途径，但不会消除航运与经营风险。",
+      "主要参考来源": [
+        "https://www.euronext.com/en/about/media/bell-ceremony-archive/415th-anniversary",
+        "https://www.metmuseum.org/art/collection/search/325851"
+      ]
+    },
+    {
+      "期数": 14,
+      "编号": "2-7",
+      "交付日期": "2026-11-09",
+      "标题": "从商队泥板到股份公司：第二周的知识地图",
+      "核心故事": "本主题前六期故事的知识串联",
+      "核心财务原理": "商人的账板展示，做生意不是单次低买高卖。运输、时间、合作伙伴和收款条件一起决定结果。古代商队与现代企业的技术相差很远，经营问题却能相互照亮。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325851",
+        "https://www.euronext.com/en/about/media/bell-ceremony-archive/415th-anniversary"
+      ]
+    },
+    {
+      "期数": 15,
+      "编号": "3-1",
+      "交付日期": "2026-11-09",
+      "标题": "1494年威尼斯的一本书：复式记账怎样传播",
+      "核心故事": "1494年，卢卡·帕乔利在威尼斯出版《算术、几何、比及比例概要》，其中第一次以印刷品系统介绍威尼斯商人已使用的复式记账。",
+      "核心财务原理": "每项交易同时改变至少两个账户，借贷金额相等，便于追踪资源与来源。",
+      "主要参考来源": [
+        "https://www.icaew.com/library/library-collection/historical-accounting-literature/pacioli",
+        "https://www.icaew.com/library/historical-resources/timeline"
+      ]
+    },
+    {
+      "期数": 16,
+      "编号": "3-2",
+      "交付日期": "2026-11-09",
+      "标题": "帕乔利之前的佛罗伦萨账簿：创新为何常先于教科书",
+      "核心故事": "ICAEW的会计史时间线指出，1296年佛罗伦萨商人在香槟集市的账簿、1299年的商号记录中，已能看到复式记账的早期实例。",
+      "核心财务原理": "制度常在实践中逐步形成，后来才被写成可教、可复制的方法。",
+      "主要参考来源": [
+        "https://www.icaew.com/library/historical-resources/timeline",
+        "https://www.icaew.com/library/library-collection/historical-accounting-literature/pacioli"
+      ]
+    },
+    {
+      "期数": 17,
+      "编号": "3-3",
+      "交付日期": "2026-11-09",
+      "标题": "1494年的“清单”难题：为什么企业先要盘点",
+      "核心故事": "帕乔利关于账簿的说明重视商人对财物与义务的整理。威尼斯商人的复杂贸易要求先知道手中有哪些资源、还欠谁多少。",
+      "核心财务原理": "盘点是把实物与账目对照；资产不是利润，欠款也不会因尚未支付而消失。",
+      "主要参考来源": [
+        "https://www.icaew.com/library/library-collection/historical-accounting-literature/pacioli",
+        "https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/"
+      ]
+    },
+    {
+      "期数": 18,
+      "编号": "3-4",
+      "交付日期": "2026-11-09",
+      "标题": "一张报表为什么左右必须平衡：看一家小店的家底",
+      "核心故事": "复式记账成熟后，企业逐渐把某一时点的资源与其来源汇总。IFRS概念框架用资产、负债和权益描述这一财务位置。",
+      "核心财务原理": "资产＝负债＋所有者权益；等式描述同一批资源的两种观察角度，不是企业永远赚钱的保证。",
+      "主要参考来源": [
+        "https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/",
+        "https://www.icaew.com/library/library-collection/historical-accounting-literature/pacioli"
+      ]
+    },
+    {
+      "期数": 19,
+      "编号": "3-5",
+      "交付日期": "2026-11-09",
+      "标题": "利润很好却付不出工资：现金流量表补上了什么",
+      "核心故事": "现代财报把现金流分为经营、投资和筹资活动。IAS 7规定，现金流量表解释一个期间现金及等价物如何变化。",
+      "核心财务原理": "利润看赚取的结果，现金流看实际收付；两者需要对账，而不能相互替代。",
+      "主要参考来源": [
+        "https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows.html/",
+        "https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/"
+      ]
+    },
+    {
+      "期数": 20,
+      "编号": "3-6",
+      "交付日期": "2026-11-09",
+      "标题": "仓库里过时的商品：为什么库存要重新估值",
+      "核心故事": "IAS 2明确规定，存货以成本与可变现净值孰低计量；货物过时或跌价时，原成本未必还能收回。",
+      "核心财务原理": "减值把预计可收回的价值变化写进账本；它不是收到或付出现金，却影响利润与资产。",
+      "主要参考来源": [
+        "https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/",
+        "https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/"
+      ]
+    },
+    {
+      "期数": 21,
+      "编号": "3-7",
+      "交付日期": "2026-11-09",
+      "标题": "从商人账簿到三张报表：第三周的知识地图",
+      "核心故事": "本主题前六期故事的知识串联",
+      "核心财务原理": "会计把一笔生意拆成可核对的变化：资源增加或减少，谁的权益随之变化。具体准则随时代演变，现代报表不能直接套回古代账板，但其核对问题始终相似。",
+      "主要参考来源": [
+        "https://www.icaew.com/library/library-collection/historical-accounting-literature/pacioli",
+        "https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/",
+        "https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows.html/"
+      ]
+    },
+    {
+      "期数": 22,
+      "编号": "4-1",
+      "交付日期": "2026-11-09",
+      "标题": "金匠的收据走进市场：银行为何能让钱流动",
+      "核心故事": "17世纪英格兰的金匠保管金币并开具可兑付收据；英格兰银行1694年成立后，也向存款人发行票据。",
+      "核心财务原理": "银行把保管、记账与支付连接起来；存款人持有的是银行负有的付款义务。",
+      "主要参考来源": [
+        "https://www.bankofengland.co.uk/museum/online-collections/blog/our-earliest-bank-of-england-note",
+        "https://www.bankofengland.co.uk/explainers/what-is-money"
+      ]
+    },
+    {
+      "期数": 23,
+      "编号": "4-2",
+      "交付日期": "2026-11-09",
+      "标题": "卡内什的分期银债：借钱为何要写清期限",
+      "核心故事": "一块卡内什银借款泥板记下两人欠商人阿舒尔-伊迪约3千克银：三分之一在下次收获时偿还，其余以后偿还，逾期按月计息。",
+      "核心财务原理": "利息与期限联系紧密，同时反映资金占用、违约可能和交易成本；实际利率不能凭这块摘要臆造。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325858",
+        "https://www.metmuseum.org/art/collection/search/325857"
+      ]
+    },
+    {
+      "期数": 24,
+      "编号": "4-3",
+      "交付日期": "2026-11-09",
+      "标题": "1694年的英格兰银行：为什么会出现“银行的银行”",
+      "核心故事": "英格兰银行于1694年成立，此后几百年逐渐承担发行钞票、服务政府与维护金融稳定等职能；早期功能与今天中央银行并不完全相同。",
+      "核心财务原理": "中央银行的发展是漫长的制度演变，不宜把1694年的机构直接说成现代完整央行。",
+      "主要参考来源": [
+        "https://www.bankofengland.co.uk/about/history",
+        "https://www.bankofengland.co.uk/explainers/how-is-money-created"
+      ]
+    },
+    {
+      "期数": 25,
+      "编号": "4-4",
+      "交付日期": "2026-11-09",
+      "标题": "1930年的银行门口排起队：挤兑怎样自我加速",
+      "核心故事": "FDIC的历史研究记录，美国1930年末一波银行倒闭后，储户纷纷试图把存款取成现金；银行卖出资产应付提款，又使资产价格和信心受压。",
+      "核心财务原理": "即使部分贷款最终能收回，短期支付需求仍可造成流动性危机；恐惧会让更多人同时提款。",
+      "主要参考来源": [
+        "https://www.fdic.gov/90years",
+        "https://www.fdic.gov/news/speeches/2023/spapr1223.html"
+      ]
+    },
+    {
+      "期数": 26,
+      "编号": "4-5",
+      "交付日期": "2026-11-09",
+      "标题": "1933年存款保险出现：谁来打断挤兑循环",
+      "核心故事": "美国大萧条时期的银行恐慌促成1933年联邦存款保险制度。FDIC成立的目标包括稳定银行体系与公众信心。",
+      "核心财务原理": "保障一定范围内的存款，可以降低“越早跑越安全”的动机；具体保障范围由各国现行规则决定。",
+      "主要参考来源": [
+        "https://www.fdic.gov/90years",
+        "https://www.fdic.gov/news/speeches/2023/spapr1223.html"
+      ]
+    },
+    {
+      "期数": 27,
+      "编号": "4-6",
+      "交付日期": "2026-11-09",
+      "标题": "2023年的快速提款：手机时代的银行风险",
+      "核心故事": "FDIC对2023年美国银行倒闭的公开讨论指出，硅谷银行遭遇利率风险损失与未受保险保障的大额存款集中提款。",
+      "核心财务原理": "利率风险、流动性风险与储户结构会相互放大；“资产多”不足以说明随时有钱可付。",
+      "主要参考来源": [
+        "https://www.fdic.gov/news/speeches/2023/spapr1223.html",
+        "https://www.fdic.gov/90years"
+      ]
+    },
+    {
+      "期数": 28,
+      "编号": "4-7",
+      "交付日期": "2026-11-09",
+      "标题": "从银债到挤兑：第四周的知识地图",
+      "核心故事": "本主题前六期故事的知识串联",
+      "核心财务原理": "信用把今天的资源与未来的偿还连起来。银行便利支付，也承担资产期限、借款人违约与储户提款的风险。理解任何银行制度，都要同时看资产、负债和现金。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325858",
+        "https://www.bankofengland.co.uk/about/history",
+        "https://www.fdic.gov/90years"
+      ]
+    },
+    {
+      "期数": 29,
+      "编号": "5-1",
+      "交付日期": "2026-11-09",
+      "标题": "1602年的认购簿：一群人怎样拥有同一家公司",
+      "核心故事": "1602年荷兰东印度公司向公众发行可交易股份，汇集远洋航行所需的大额资金；阿姆斯特丹交易史把它视为现代股票市场的重要起点。",
+      "核心财务原理": "股份把资本贡献与剩余权益分成可转让份额；股东承担经营结果，也不直接拥有某一箱货。",
+      "主要参考来源": [
+        "https://www.euronext.com/en/about/media/bell-ceremony-archive/415th-anniversary",
+        "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks?trk=article-ssr-frontend-pulse_little-text-block"
+      ]
+    },
+    {
+      "期数": 30,
+      "编号": "5-2",
+      "交付日期": "2026-11-09",
+      "标题": "阿姆斯特丹的转让：股份为何需要市场",
+      "核心故事": "泛欧交易所回顾，VOC成立后，阿姆斯特丹逐渐形成股份交易场所；公司融资与投资者之间转让，是两个不同资金流。",
+      "核心财务原理": "二级市场让投资者之间买卖既有股份；成交价由买卖意愿形成，不等于公司当日收到的款项。",
+      "主要参考来源": [
+        "https://www.euronext.com/en/about/media/bell-ceremony-archive/gong-marks-exchange-anniversary-and-exchange-history-website",
+        "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks?trk=article-ssr-frontend-pulse_little-text-block"
+      ]
+    },
+    {
+      "期数": 31,
+      "编号": "5-3",
+      "交付日期": "2026-11-09",
+      "标题": "远洋航行的风险如何分给股东",
+      "核心故事": "VOC以公众认购汇集资金，一次海难或市场跌价不再只压在一名商人身上；但股东共同出资不意味着航行没有风险。",
+      "核心财务原理": "股本提供吸收损失的缓冲；债权人有约定债权，股东获得扣除负债后的剩余。",
+      "主要参考来源": [
+        "https://www.euronext.com/en/about/media/bell-ceremony-archive/415th-anniversary",
+        "https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/"
+      ]
+    },
+    {
+      "期数": 32,
+      "编号": "5-4",
+      "交付日期": "2026-11-09",
+      "标题": "分红从哪里来：股份不是自动吐钱的票",
+      "核心故事": "早期股份公司的投资者期待贸易成果，但利润要先覆盖经营支出、债务和下一轮航行所需资金，才可能分配。",
+      "核心财务原理": "股息来自企业可分配资源与治理决定；股价上涨本身不会给企业产生可分配现金。",
+      "主要参考来源": [
+        "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks?trk=article-ssr-frontend-pulse_little-text-block",
+        "https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows.html/"
+      ]
+    },
+    {
+      "期数": 33,
+      "编号": "5-5",
+      "交付日期": "2026-11-09",
+      "标题": "新股发行与旧股转手：IPO到底筹了谁的钱",
+      "核心故事": "VOC向公众发行股份的历史提醒我们，公开募股的核心是向投资者募集资本；上市后交易同样重要，但流向不同。",
+      "核心财务原理": "IPO中若公司发行新股，认购款进入公司；若旧股东出售旧股，款项进入出售者账户，具体应看发行文件。",
+      "主要参考来源": [
+        "https://www.euronext.com/en/about/media/bell-ceremony-archive/gong-marks-exchange-anniversary-and-exchange-history-website",
+        "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks?trk=article-ssr-frontend-pulse_little-text-block"
+      ]
+    },
+    {
+      "期数": 34,
+      "编号": "5-6",
+      "交付日期": "2026-11-09",
+      "标题": "为什么有人选择跟着指数走：被动投资的逻辑",
+      "核心故事": "股票市场发展后，单一公司风险与选股成本使投资者寻找更广的组合。美国证券交易委员会的投资者教育解释，指数基金按选定指数持有证券。",
+      "核心财务原理": "指数基金以规则化组合分散个别公司风险，并通常减少主动交易；它仍承担市场下跌风险和费用。",
+      "主要参考来源": [
+        "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-funds-etfs/mutual-funds",
+        "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks?trk=article-ssr-frontend-pulse_little-text-block"
+      ]
+    },
+    {
+      "期数": 35,
+      "编号": "5-7",
+      "交付日期": "2026-11-09",
+      "标题": "从认购船队到指数基金：第五周的知识地图",
+      "核心故事": "本主题前六期故事的知识串联",
+      "核心财务原理": "资本市场把长期项目与众多投资者连接起来。发行股份为企业筹资，已有股份交易则帮助投资者转让权利。价格每天波动，不会自动改变企业已经拥有的现金。",
+      "主要参考来源": [
+        "https://www.euronext.com/en/about/media/bell-ceremony-archive/415th-anniversary",
+        "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-funds-etfs/mutual-funds"
+      ]
+    },
+    {
+      "期数": 36,
+      "编号": "6-1",
+      "交付日期": "2026-11-09",
+      "标题": "卡内什的锡换银：跨地区贸易为何需要换算",
+      "核心故事": "卡内什商队账板记下亚述商人投入银购买锡和纺织品，再前往安纳托利亚交易。不同货物、不同地区的计价安排使商人必须比较价值。",
+      "核心财务原理": "汇兑的核心是把一种支付单位折成另一种；运输、时间和风险也影响实际得失。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325851",
+        "https://www.imf.org/external/np/exr/center/students/hs/think/lesson7.pdf"
+      ]
+    },
+    {
+      "期数": 37,
+      "编号": "6-2",
+      "交付日期": "2026-11-09",
+      "标题": "一张承诺付款的纸：国际贸易为什么重视单据",
+      "核心故事": "远距离商人很早就面对“货先到还是钱先到”的难题。现代信用证由进口方银行作出符合单据条件时付款的承诺，是应对这一难题的制度。",
+      "核心财务原理": "银行承诺与运输单据把付款条件写清；单据符合条件不等于货物质量自动无争议。",
+      "主要参考来源": [
+        "https://www.imf.org/-/media/files/publications/wp/2020/english/wpiea2020247-print-pdf.pdf",
+        "https://www.imf.org/external/np/exr/center/students/hs/think/lesson7.pdf"
+      ]
+    },
+    {
+      "期数": 38,
+      "编号": "6-3",
+      "交付日期": "2026-11-09",
+      "标题": "黄金作锚：金本位怎样约束货币",
+      "核心故事": "IMF的货币体系历史回顾指出，19世纪后期主要国家逐渐采用金本位，货币按固定比价与黄金兑换，汇率因而相对稳定。",
+      "核心财务原理": "固定黄金平价限制货币供给的灵活性；危机时维持兑换可能要求高利率与紧缩。",
+      "主要参考来源": [
+        "https://www.imf.org/en/publications/policy-papers/issues/2016/12/31/reserve-accumulation-and-international-monetary-stability-supplementary-information-pp4457",
+        "https://www.bankofengland.co.uk/explainers/what-is-money"
+      ]
+    },
+    {
+      "期数": 39,
+      "编号": "6-4",
+      "交付日期": "2026-11-09",
+      "标题": "1944年山中会议：布雷顿森林体系在解决什么",
+      "核心故事": "1944年各国在美国布雷顿森林商议战后货币秩序，形成以美元为中心的固定但可调整汇率安排，并建立IMF。",
+      "核心财务原理": "制度试图在稳定汇率与必要调整之间折中，美元与黄金的官方兑换关系处于核心。",
+      "主要参考来源": [
+        "https://www.imf.org/en/publications/policy-papers/issues/2016/12/31/reserve-accumulation-and-international-monetary-stability-supplementary-information-pp4457",
+        "https://www.imf.org/en/blogs/articles/2021/08/16/from-the-history-books-the-rethinking-of-the-international-monetary-system"
+      ]
+    },
+    {
+      "期数": 40,
+      "编号": "6-5",
+      "交付日期": "2026-11-09",
+      "标题": "1971年的兑换中止：国际货币的锚怎样改变",
+      "核心故事": "1971年美国停止外国官方持有美元兑换黄金，布雷顿森林体系的核心承诺被打断；随后主要货币转向更灵活的汇率安排。",
+      "核心财务原理": "制度的可信度依赖可履行的承诺；退出旧锚后，汇率会更多反映政策与市场供求。",
+      "主要参考来源": [
+        "https://www.imf.org/en/blogs/articles/2021/08/16/from-the-history-books-the-rethinking-of-the-international-monetary-system",
+        "https://www.imf.org/en/publications/policy-papers/issues/2016/12/31/reserve-accumulation-and-international-monetary-stability-supplementary-information-pp4457"
+      ]
+    },
+    {
+      "期数": 41,
+      "编号": "6-6",
+      "交付日期": "2026-11-09",
+      "标题": "出口商收到外币后：汇率怎样改变利润",
+      "核心故事": "IMF的外汇教学材料解释，浮动汇率由外汇市场供求影响；企业跨境结算时，合同价与本币收入可能在付款前变化。",
+      "核心财务原理": "汇率风险是外币现金流与本币成本之间的错配；预测方向不如先量化暴露。",
+      "主要参考来源": [
+        "https://www.imf.org/external/np/exr/center/students/hs/think/lesson7.pdf",
+        "https://www.imf.org/en/publications/policy-papers/issues/2016/12/31/reserve-accumulation-and-international-monetary-stability-supplementary-information-pp4457"
+      ]
+    },
+    {
+      "期数": 42,
+      "编号": "6-7",
+      "交付日期": "2026-11-09",
+      "标题": "从商队换算到浮动汇率：第六周的知识地图",
+      "核心故事": "本主题前六期故事的知识串联",
+      "核心财务原理": "跨境支付有三层：用什么币计价，怎样把一种币换成另一种币，如何确认货与款都到位。历史上的金本位和今天的浮动汇率各有规则，不能用一个时代的答案解释所有时期。",
+      "主要参考来源": [
+        "https://www.metmuseum.org/art/collection/search/325851",
+        "https://www.imf.org/en/publications/policy-papers/issues/2016/12/31/reserve-accumulation-and-international-monetary-stability-supplementary-information-pp4457",
+        "https://www.imf.org/external/np/exr/center/students/hs/think/lesson7.pdf"
+      ]
+    },
+    {
+      "期数": 43,
+      "编号": "7-1",
+      "交付日期": "2026-11-09",
+      "标题": "1934年的《证券分析》：生意值多少不能只看报价",
+      "核心故事": "1934年格雷厄姆与多德出版《证券分析》，在经历市场剧烈波动后强调研究企业财务和内在价值。CFA Institute资料梳理了这条思想线索。",
+      "核心财务原理": "估值是对未来可获得利益作有条件的判断；价格是此刻交易双方达成的数字。",
+      "主要参考来源": [
+        "https://rpc.cfainstitute.org/blogs/enterprising-investor/2015/margin-of-safety-the-lost-art",
+        "https://rpc.cfainstitute.org/research/cfa-magazine/2003/living-legends"
+      ]
+    },
+    {
+      "期数": 44,
+      "编号": "7-2",
+      "交付日期": "2026-11-09",
+      "标题": "1938年的股息问题：一家公司将来分的钱值多少",
+      "核心故事": "1938年，美国经济学家约翰·伯尔·威廉姆斯出版《投资价值理论》，把股票价值与未来股息的现值联系起来。CFA Institute的课程导言把这看作后来现金流折现模型的重要起点。",
+      "核心财务原理": "若下一年股息D为10元、折现率r为10%、长期增长g为2%，恒定增长模型价值D÷(r－g)＝125元；前提是r大于g且增长可持续。",
+      "主要参考来源": [
+        "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/discounted-dividend-valuation",
+        "https://www.investor.gov/introduction-investing/investing-basics/glossary/discounted-cash-flow"
+      ]
+    },
+    {
+      "期数": 45,
+      "编号": "7-3",
+      "交付日期": "2026-11-09",
+      "标题": "市盈率里的“几年”：为什么低倍数未必便宜",
+      "核心故事": "美国证券交易委员会投资者教育把市盈率定义为股价除以每股收益；它是比较价格与当前盈利的一把简尺。",
+      "核心财务原理": "市盈率10倍意味着价格约为当期每股利润的10倍，不等于十年必定回本。",
+      "主要参考来源": [
+        "https://www.investor.gov/introduction-investing/investing-basics/glossary/price-earnings-pe-ratio?trk=article-ssr-frontend-pulse_little-text-block",
+        "https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/"
+      ]
+    },
+    {
+      "期数": 46,
+      "编号": "7-4",
+      "交付日期": "2026-11-09",
+      "标题": "未来的现金如何折回今天：DCF的一次计算",
+      "核心故事": "公开公司交易文件中使用现金流折现法，将预计未来自由现金流按折现率换算为现值。它是估值工具，不是预测机器。",
+      "核心财务原理": "现值＝未来现金流÷(1＋折现率)^年数；折现率反映时间价值与风险判断。",
+      "主要参考来源": [
+        "https://www.sec.gov/Archives/edgar/data/781891/000120486212000050/formdefm14a.htm",
+        "https://www.investor.gov/introduction-investing/investing-basics/glossary/discounted-cash-flow"
+      ]
+    },
+    {
+      "期数": 47,
+      "编号": "7-5",
+      "交付日期": "2026-11-09",
+      "标题": "利率上升时，远期收益为何更不值钱",
+      "核心故事": "DCF把未来现金流折回今天。越远的现金流，受折现率变化影响越大；这是估值中的“久期”直觉。",
+      "核心财务原理": "现值公式中的折现率不是央行某一个利率的简单照搬，而应与风险、期限和币种相匹配。",
+      "主要参考来源": [
+        "https://www.investor.gov/introduction-investing/investing-basics/glossary/discounted-cash-flow",
+        "https://www.sec.gov/Archives/edgar/data/781891/000120486212000050/formdefm14a.htm"
+      ]
+    },
+    {
+      "期数": 48,
+      "编号": "7-6",
+      "交付日期": "2026-11-09",
+      "标题": "格雷厄姆的安全边际：给估计错误留多少空间",
+      "核心故事": "CFA Institute回顾格雷厄姆的安全边际思想：对企业价值的估计难免出错，因此决策需要给坏结果留余地。",
+      "核心财务原理": "安全边际是估计价值与买价之间的缓冲，不是保证盈利的护身符；价值本身也可能下修。",
+      "主要参考来源": [
+        "https://rpc.cfainstitute.org/blogs/enterprising-investor/2015/margin-of-safety-the-lost-art",
+        "https://rpc.cfainstitute.org/research/cfa-magazine/2003/living-legends"
+      ]
+    },
+    {
+      "期数": 49,
+      "编号": "7-7",
+      "交付日期": "2026-11-09",
+      "标题": "从利润倍数到现金折现：第七周的知识地图",
+      "核心故事": "本主题前六期故事的知识串联",
+      "核心财务原理": "估值是把未来的不确定利益换算成今天的有条件判断。任何结果都依赖收入、成本、期限与折现率假设；公式算得很准，也不能把错误假设变成事实。",
+      "主要参考来源": [
+        "https://rpc.cfainstitute.org/blogs/enterprising-investor/2015/margin-of-safety-the-lost-art",
+        "https://www.investor.gov/introduction-investing/investing-basics/glossary/discounted-cash-flow",
+        "https://www.investor.gov/introduction-investing/investing-basics/glossary/price-earnings-pe-ratio?trk=article-ssr-frontend-pulse_little-text-block"
+      ]
+    },
+    {
+      "期数": 50,
+      "编号": "8-1",
+      "交付日期": "2026-11-09",
+      "标题": "1688年的伦敦咖啡馆：船没回来怎么办",
+      "核心故事": "1688年已有伦敦爱德华·劳埃德咖啡馆的记载。船主、船长和愿承担风险的人在此交换航运信息，逐渐形成海上保险市场。",
+      "核心财务原理": "保险让多人预先出资、约定事故发生时补偿损失；承保人需要了解风险，保费不是随意收的。",
+      "主要参考来源": [
+        "https://www.lloyds.com/about-lloyds/history/coffee-and-commerce?trk=public_post_comment-text",
+        "https://www.fdic.gov/90years"
+      ]
+    },
+    {
+      "期数": 51,
+      "编号": "8-2",
+      "交付日期": "2026-11-09",
+      "标题": "一场风暴与一百条船：风险为什么可以分散",
+      "核心故事": "劳合社早期海上保险依赖航运信息。不同航线、船型与季节的风险不完全相同，承保人才能把损失在更多人之间分摊。",
+      "核心财务原理": "分散风险要求损失之间不要高度同步，还需要足够的资本应对少见但严重的事件。",
+      "主要参考来源": [
+        "https://www.lloyds.com/about-lloyds/history/coffee-and-commerce?trk=public_post_comment-text",
+        "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset"
+      ]
+    },
+    {
+      "期数": 52,
+      "编号": "8-3",
+      "交付日期": "2026-11-09",
+      "标题": "1933年的存款保障：保险与储蓄的边界",
+      "核心故事": "美国在1933年建立联邦存款保险，是对银行恐慌的一种制度回应。它承保符合规则的存款，不是对任何金融产品收益的保证。",
+      "核心财务原理": "应先识别合同中的法律关系：是存款债权、保险合同，还是承担市场波动的投资份额。",
+      "主要参考来源": [
+        "https://www.fdic.gov/90years",
+        "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset"
+      ]
+    },
+    {
+      "期数": 53,
+      "编号": "8-4",
+      "交付日期": "2026-11-09",
+      "标题": "三只篮子并不一定分散：资产配置看相关性",
+      "核心故事": "美国证券交易委员会的投资者教育强调，资产配置与分散要结合期限、风险承受力，并定期检查组合。",
+      "核心财务原理": "配置是安排不同风险来源的比例；分散降低个别风险，却不能消除市场整体风险。",
+      "主要参考来源": [
+        "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset",
+        "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-funds-etfs/mutual-funds"
+      ]
+    },
+    {
+      "期数": 54,
+      "编号": "8-5",
+      "交付日期": "2026-11-09",
+      "标题": "给家庭画一张资产负债表：财富从哪里来",
+      "核心故事": "现代财务报表区分资产、负债和权益。家庭不必采用企业的全部会计规则，也能借这套结构看清净值与支付压力。",
+      "核心财务原理": "净资产＝资产－负债；现金流量则解释每月收入与支出，二者一个看存量、一个看变化。",
+      "主要参考来源": [
+        "https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/",
+        "https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows.html/"
+      ]
+    },
+    {
+      "期数": 55,
+      "编号": "8-6",
+      "交付日期": "2026-11-09",
+      "标题": "2008年的房价下跌：为什么损失会传遍金融系统",
+      "核心故事": "美联储历史资料记载，美国住房市场在2006年前后见顶，随后抵押贷款相关资产损失在2007—08年给金融市场造成压力。",
+      "核心财务原理": "杠杆使小幅资产跌价更快侵蚀权益；短期融资又可能迫使机构卖出资产，形成反馈。",
+      "主要参考来源": [
+        "https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath",
+        "https://www.fdic.gov/news/speeches/2023/spapr1223.html"
+      ]
+    },
+    {
+      "期数": 56,
+      "编号": "8-7",
+      "交付日期": "2026-11-09",
+      "标题": "从船险到家庭净值：第八周的知识地图",
+      "核心故事": "本主题前六期故事的知识串联",
+      "核心财务原理": "个人财务与企业经营都需要区分存量、现金流和风险。保险、资产配置与负债管理分别处理不同问题，不能由一种工具包办所有损失。",
+      "主要参考来源": [
+        "https://www.lloyds.com/about-lloyds/history/coffee-and-commerce?trk=public_post_comment-text",
+        "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset",
+        "https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath"
+      ]
+    }
+  ],
+  "下一期计划": "第一轮56期已完成；等待阅读反馈后设计第二轮",
+  "用户反馈": "未知"
+}
